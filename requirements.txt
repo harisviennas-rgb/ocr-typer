@@ -1,0 +1,5 @@
+pytesseract==0.3.10
+pillow==10.1.0
+pyautogui==0.9.53
+pynput==1.7.6
+pyinstaller==6.1.0
