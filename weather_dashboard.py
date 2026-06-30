@@ -8,8 +8,6 @@ from tkinter import ttk, messagebox
 import requests
 import threading
 from datetime import datetime
-from PIL import Image, ImageTk
-from io import BytesIO
 import json
 import os
 
